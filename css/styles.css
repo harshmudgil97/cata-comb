@@ -154,5 +154,9 @@ p{
   .title-img{
     width: 70%
   }
+  
+  .primary{
+    margin-left: 5%;
+  }
 
 }
